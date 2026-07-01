@@ -6,7 +6,7 @@
 
 <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/himanshujc/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="chaudhari.himanshu.j@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://xhiman-2.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=googlechrome"/></a>
+<a href="https://xhiman-2.web.app/"><img src="https://img.shields.io/badge/Portfolio-success"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Mumbai%2C%20India-171717?style=flat-square&logo=googlemaps&logoColor=white" /></a>
 
 <br/><br/>
