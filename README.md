@@ -68,24 +68,6 @@ High-performance analytics dashboard optimized for government workflows and larg
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XHiman&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHiman&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
-</p>
-
----
-
 ## 🌍 Interests
 
 * Human Computer Interaction
@@ -100,9 +82,9 @@ High-performance analytics dashboard optimized for government workflows and larg
 
 ## 📫 Connect With Me
 
-* LinkedIn: `your-linkedin`
-* Portfolio: `your-portfolio`
-* Email: `your-email`
+* LinkedIn: `https://www.linkedin.com/in/himanshujc/`
+* Portfolio: `https://xhiman-2.web.app/`
+* Email: `chaudhari.himanshu.j@gmail.com`
 
 ---
 
