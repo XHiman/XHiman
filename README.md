@@ -50,11 +50,11 @@ Building products where **technology, data, design, and human behavior intersect
 
 ## 🏗 Featured Projects
 
-### 🏛 Government Dashboard Platform
+### 🏛 Integrated District Data Portal
 
 Citizen-focused analytics dashboard designed for decision makers and public administrators.
 
-### 🤟 SIGNIFY
+### 🤟 Signify
 
 Real-time hand sign interpretation system improving accessibility and communication.
 
@@ -82,9 +82,17 @@ High-performance analytics dashboard optimized for government workflows and larg
 
 ## 📫 Connect With Me
 
-* LinkedIn: `https://www.linkedin.com/in/himanshujc/`
-* Portfolio: `https://xhiman-2.web.app/`
-* Email: `chaudhari.himanshu.j@gmail.com`
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshujc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Chaudhari-blue?logo=linkedin" />
+  </a>
+  <a href="https://xhiman-2.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?logo=googlechrome" />
+  </a>
+  <a href="mailto:chaudhari.himanshu.j@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+</p>
 
 ---
 
