@@ -76,6 +76,11 @@ High-performance analytics dashboard optimized for government workflows and larg
 </p>
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XHiman&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XHiman&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
 </p>
 
